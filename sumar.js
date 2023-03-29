@@ -1,12 +1,5 @@
 
 function sumar(a,b){
-    
-    //Arreglo: Listado de datos (variables, objectos, funciones)
-    let compras = ["pan", "carne","cuchillas", "queso"];
-
-    //para referirme a un elemento uso la posicion relativo al primer elemento
-    console.log(compras[0]);
-
     return a+b;
 }
 
